@@ -113,5 +113,5 @@ Create another component to display a selected movie. Some hints:
 
 
 
-![YEAH!](https://media.giphy.com/media/KZwhBE8csqcl2Grept/giphy.gif)
+(https://media.giphy.com/media/KZwhBE8csqcl2Grept/giphy.gif)
 
